@@ -35,7 +35,8 @@ export const win = (state, row, col, turn, size) => {
       state,
       [row, col],
       line.map((move) => -move),
-      turn
+      turn,
+      size
     ) >= 5
       ? true
       : false

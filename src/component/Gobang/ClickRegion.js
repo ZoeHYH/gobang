@@ -37,7 +37,7 @@ export default function ClickRegion({
 }
 
 ClickRegion.propTypes = {
-  winner: PropTypes.bool,
+  winner: PropTypes.string,
   size: PropTypes.number,
   state: PropTypes.arrayOf(
     PropTypes.arrayOf(PropTypes.oneOf([true, false, ""]))

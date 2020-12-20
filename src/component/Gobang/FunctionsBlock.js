@@ -45,6 +45,6 @@ FunctionsBlock.propTypes = {
   record: PropTypes.arrayOf(
     PropTypes.arrayOf(PropTypes.arrayOf(PropTypes.oneOf([true, false, ""])))
   ),
-  winner: PropTypes.bool,
+  winner: PropTypes.string,
   handleReturnOnClick: PropTypes.func,
 };
