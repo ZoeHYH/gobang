@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/gobang/static/css/main.da106304.chunk.css",
-    "main.js": "/gobang/static/js/main.5176c516.chunk.js",
-    "main.js.map": "/gobang/static/js/main.5176c516.chunk.js.map",
+    "main.js": "/gobang/static/js/main.a50fd1f3.chunk.js",
+    "main.js.map": "/gobang/static/js/main.a50fd1f3.chunk.js.map",
     "runtime-main.js": "/gobang/static/js/runtime-main.0e929743.js",
     "runtime-main.js.map": "/gobang/static/js/runtime-main.0e929743.js.map",
     "static/js/2.e930d180.chunk.js": "/gobang/static/js/2.e930d180.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.0e929743.js",
     "static/js/2.e930d180.chunk.js",
     "static/css/main.da106304.chunk.css",
-    "static/js/main.5176c516.chunk.js"
+    "static/js/main.a50fd1f3.chunk.js"
   ]
 }
